@@ -1,7 +1,7 @@
 name: j_downloader
 description: "Multi-Isolate Downloader developed for JHenTai."
 version: 0.0.3
-homepage: https://github.com/jiangtian616/JDownloader
+homepage: https://github.com/xcoolray/JDownloader
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -16,7 +16,7 @@ dependencies:
   logger: 2.2.0
   flutter_socks_proxy:
     # https://github.com/tayoji-io/socks_proxy/issues/7
-    git: https://github.com/jiangtian616/socks_proxy
+    git: https://github.com/xcoolray/socks_proxy
   
 dev_dependencies:
   flutter_test:
